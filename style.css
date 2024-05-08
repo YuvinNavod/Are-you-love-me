@@ -31,3 +31,11 @@ button {
     display: inline-block;
     font-size: 16px;
   }
+
+#yes {padding: 10px 24px;}
+#no {padding: 12px 28px;}
+
+  html
+  {
+      background-color: rgb(87, 83, 83);
+  }
