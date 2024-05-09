@@ -30,10 +30,20 @@ button {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    
+    
   }
 
-#yes {padding: 10px 24px;}
-#no {padding: 12px 28px;}
+#yes {
+    position: absolute;
+    left: 500px;
+    top: 500px;
+  }
+#no  {
+    position: absolute;
+    left: 800px;
+    top: 500px}
+
 
   html
   {
